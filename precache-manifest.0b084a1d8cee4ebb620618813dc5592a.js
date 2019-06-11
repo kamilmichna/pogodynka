@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "82680e1e8bdc176d25a06eb4325bc0a2",
+    "revision": "65538e01ceca9a316cb0d0c12a17218b",
     "url": "/pogodynka/index.html"
   },
   {
-    "revision": "291ea2697a98c6b01b43",
+    "revision": "fecb60d88e114aa72278",
     "url": "/pogodynka/static/css/main.8ef63b32.chunk.css"
   },
   {
-    "revision": "61839f920f236b21e347",
-    "url": "/pogodynka/static/js/2.d20b0fce.chunk.js"
+    "revision": "1dd789b1ad550d99c837",
+    "url": "/pogodynka/static/js/2.59ae5c1c.chunk.js"
   },
   {
-    "revision": "291ea2697a98c6b01b43",
-    "url": "/pogodynka/static/js/main.85367236.chunk.js"
+    "revision": "fecb60d88e114aa72278",
+    "url": "/pogodynka/static/js/main.50e974ad.chunk.js"
   },
   {
     "revision": "210bcda73b87a7d902f3",
