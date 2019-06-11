@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pogodynka/static/css/main.8ef63b32.chunk.css",
+    "main.js": "/pogodynka/static/js/main.dade156a.chunk.js",
+    "main.js.map": "/pogodynka/static/js/main.dade156a.chunk.js.map",
+    "runtime~main.js": "/pogodynka/static/js/runtime~main.ba660732.js",
+    "runtime~main.js.map": "/pogodynka/static/js/runtime~main.ba660732.js.map",
+    "static/js/2.59ae5c1c.chunk.js": "/pogodynka/static/js/2.59ae5c1c.chunk.js",
+    "static/js/2.59ae5c1c.chunk.js.map": "/pogodynka/static/js/2.59ae5c1c.chunk.js.map",
+    "index.html": "/pogodynka/index.html",
+    "precache-manifest.bc505450f0ea04849adf6b16638bfce5.js": "/pogodynka/precache-manifest.bc505450f0ea04849adf6b16638bfce5.js",
+    "service-worker.js": "/pogodynka/service-worker.js",
+    "static/css/main.8ef63b32.chunk.css.map": "/pogodynka/static/css/main.8ef63b32.chunk.css.map",
+    "static/media/landing_img.svg": "/pogodynka/static/media/landing_img.26c57035.svg"
+  }
+}
