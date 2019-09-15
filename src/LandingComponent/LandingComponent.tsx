@@ -63,7 +63,7 @@ const LandingComponent = () => {
         <Layout>
             <Header></Header>
             <HeroTitle>Sprawdź pogodę w okolicy!</HeroTitle>
-            <LandingDescription>No ogólnie to kiedyś będzie tutaj jakiś fajny opis. W skrócie Pogodynka to taka aplikacja że sobie sprawdzasz pogodę napisana tylko po to żeby utrwalić pewne skillsy. Dzięki za uwagę. Ps korzystam z Open Weather Api. Ps szukam pracy</LandingDescription>
+            <LandingDescription>Aplikacja pogodowa napisana w React z użyciem Typescript dla utrwalenia pewnych umiejętności </LandingDescription>
             <LandingGraphic src={graphic}/>
             <ToAppButton to='/client'>Przejdź do aplikacji</ToAppButton>
             <Footer>a</Footer>
