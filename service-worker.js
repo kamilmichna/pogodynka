@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/pogodynka/precache-manifest.1b015c3d1df90a7776e9c8f897ad2400.js"
+  "/pogodynka/precache-manifest.5aec1029dd7c84fdd9d87317c31b39d2.js"
 );
 
 self.addEventListener('message', (event) => {
