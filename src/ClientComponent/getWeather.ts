@@ -6,7 +6,7 @@ interface GetWeatherInterface{
 }
 
 const getWeather = async (data: GetWeatherInterface) => {
-    let fetchData = await fetch(`https://api.openweathermap.org/data/2.5/weather?q=${data.cityName}&APIKEY=8004ec5d469862255ead99a28fafbe12&units=metric&lang=pl`);
+    let fetchData = await fetch(`https://api.openweathermap.org/data/2.5/weather?q=${data.cityName}&APIKEY=api&units=metric&lang=pl`);
     if (fetchData.status !== 200){
         throw new Error('cannot fetch this city!');
     }
